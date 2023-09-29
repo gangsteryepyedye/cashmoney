@@ -1,0 +1,2 @@
+class TheMediator < ApplicationRecord
+end

@@ -1,0 +1,2 @@
+class MoneyCalculate < ApplicationRecord
+end
